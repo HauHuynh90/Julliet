@@ -3,7 +3,7 @@
 body{
   font-family: 'Lato', sans-serif;
   margin: auto;
-  background-color: rgb(201, 233, 231);
+  background-color: lightgray;;
 }
 
 
@@ -57,7 +57,7 @@ body{
 }
 
 .navbar-nav, .navbar {
-  background-color: #e7c2a0;
+  background-color: #39bb60;
 }
 
 .nav-link {
@@ -134,7 +134,7 @@ footer{
 #evalHead {
   margin-top: 10px;
   width: 90%;
-  border: 2px solid #dbdbdb;
+  border: 2px solid #23b15a;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.12);
   margin-left: auto;
   margin-right: auto;
@@ -146,13 +146,13 @@ footer{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border: 2px solid #dbdbdb;
+  border: 2px solid #27be22;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.12);
 }
 
 #showcase {
-  background-color: #ededed;
-  border: 2px solid #dbdbdb;
+  background-color: hsl(207, 83%, 72%);
+  border: 2px solid white;
   height: 55%;
   width: 60%;
   margin:0 auto;
@@ -165,8 +165,8 @@ footer{
   position:relative;
   height:300px;
   width:40%;
-  background-color:#000;
-  color: #55ff55;
+  background-color:rgb(56, 209, 107);
+  color: white;
   font-family: monospace;
   padding:6px; 
   margin: 2% auto;
